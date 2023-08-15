@@ -1,4 +1,4 @@
 some text
 
-vendor text advanced vendor changed
+vendor text advanced vendor changed new
 
